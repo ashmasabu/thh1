@@ -8,6 +8,7 @@
 ### Team Members
 - Member 1: [Ashma Sabu] - [AISAT]
 - Member 2: [Olivia Benoy] - [AISAT]
+- Member 3: [Sreelekshmi] - [AISAT]
 
 
 ### Hosted Project Link
